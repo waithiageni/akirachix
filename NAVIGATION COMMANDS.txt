@@ -1,0 +1,66 @@
+2
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is FC76-6758
+
+ Directory of C:\
+
+01/28/2019  06:27 PM    <DIR>          adobe illlustrator
+01/28/2019  06:29 PM    <DIR>          adobe photoshop
+01/29/2019  07:09 AM    <DIR>          Alice2.2
+02/14/2019  02:46 AM    <DIR>          cygwin64
+01/28/2019  06:43 PM    <DIR>          EAGLE-7.6.0
+01/29/2019  07:09 AM    <DIR>          eclipse
+01/29/2019  03:29 AM    <DIR>          Intel
+02/14/2019  03:13 AM    <DIR>          MinGW
+04/11/2018  03:38 PM    <DIR>          PerfLogs
+02/14/2019  04:15 AM    <DIR>          Program Files
+02/14/2019  01:43 AM    <DIR>          Program Files (x86)
+02/14/2019  01:56 AM    <DIR>          Users
+02/14/2019  09:56 AM    <DIR>          Windows
+02/14/2019  02:19 AM    <DIR>          Windows.old
+02/14/2019  02:43 AM    <DIR>          xampp
+               0 File(s)              0 bytes
+              15 Dir(s)  78,741,647,360 bytes free
+
+C:\>cd Users
+
+C:\Users>dir
+ Volume in drive C has no label.
+ Volume Serial Number is FC76-6758
+
+ Directory of C:\Users
+
+02/14/2019  01:56 AM    <DIR>          .
+02/14/2019  01:56 AM    <DIR>          ..
+02/14/2019  02:31 AM    <DIR>          AKH015
+02/13/2019  06:01 PM    <DIR>          Akirachix
+02/14/2019  01:43 AM    <DIR>          Public
+02/14/2019  05:06 AM    <DIR>          student
+               0 File(s)              0 bytes
+               6 Dir(s)  78,741,614,592 bytes free
+
+C:\Users>cd student
+
+C:\Users\student>cd waithiageni
+The system cannot find the path specified.
+
+C:\Users\student>cd Desktop
+
+C:\Users\student\Desktop>cd waithiageni
+
+C:\Users\student\Desktop\waithiageni>dir
+ Volume in drive C has no label.
+ Volume Serial Number is FC76-6758
+
+ Directory of C:\Users\student\Desktop\waithiageni
+
+02/15/2019  04:34 AM    <DIR>          .
+02/15/2019  04:34 AM    <DIR>          ..
+02/15/2019  03:52 AM            12,312 EXERCISE 1 TYPING SPEED.docx
+               1 File(s)         12,312 bytes
+               2 Dir(s)  78,741,823,488 bytes free
+
+C:\Users\student\Desktop\waithiageni>"EXERCISE 1 TYPING SPEED.docx"
+
+C:\Users\student\Desktop\waithiageni>
